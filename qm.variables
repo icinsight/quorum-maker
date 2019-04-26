@@ -1,2 +1,2 @@
-dockerImage=quorum-maker-image/Dockerfile
+dockerImage=quorum-maker-image/dockerfile
 DOCKER_NETWORK_IP=10.50.0.
